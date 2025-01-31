@@ -1,0 +1,17 @@
+.photo-article {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}
+
+.photo-article .article-figure {
+    height: 45vh;
+    margin: 0;
+}
+
+.photo-article .article-figure img {
+    width: 300px;
+    
+    flex-shrink: 0;
+}
+

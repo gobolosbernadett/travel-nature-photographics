@@ -1,0 +1,42 @@
+[
+    {
+        "category": "nature",
+        "photoUrl": "/assets/img/természet fotók/bogancs.jpg",
+        "alt": "bogáncs"
+    },
+    {
+        "category": "nature",
+        "photoUrl": "/assets/img/természet fotók/Gomba.jpg",
+        "alt": "gomba"
+    },
+    {
+        "category": "nature",
+        "photoUrl": "/assets/img/természet fotók/Hattyu.jpg",
+        "alt": "hattyú"
+    },
+    {
+        "category": "nature",
+        "photoUrl": "/assets/img/természet fotók/Kacsak.jpg",
+        "alt": "kacsák"
+    },
+    {
+        "category": "nature",
+        "photoUrl": "/assets/img/természet fotók/Mehecske.jpg",
+        "alt": "méhecske"
+    },
+    {
+        "category": "travel",
+        "photoUrl": "/assets/img/úti fotók/Galata.jpg",
+        "alt": "galata"
+    },
+    {
+        "category": "travel",
+        "photoUrl": "/assets/img/úti fotók/Ortakoy.jpg",
+        "alt": "ortaköy"
+    },
+    {
+        "category": "travel",
+        "photoUrl": "/assets/img/úti fotók/Turivar.jpg",
+        "alt": "turivár"
+    }
+]

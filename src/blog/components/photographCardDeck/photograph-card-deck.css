@@ -1,0 +1,7 @@
+.photograph-card-deck {
+    display: flex;
+    flex-direction: row;
+    gap: 1rem;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}

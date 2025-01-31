@@ -1,0 +1,17 @@
+.photo-galery {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    align-items: center;
+}
+
+.btn-style {
+    display: flex;
+    flex-direction: row;
+    gap: 1rem;
+}
+
+.photo-galery img {
+    width: 100vh;
+}
+

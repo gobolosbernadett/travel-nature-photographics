@@ -1,0 +1,9 @@
+
+.site-footer {
+    background-color: rgb(23, 23, 23);
+    color: white;
+}
+
+.site-footer div {
+    padding: 1rem;
+}

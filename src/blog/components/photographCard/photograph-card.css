@@ -1,0 +1,37 @@
+
+.photograph-card {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+
+    width: 260px;
+    border: 1px solid black;
+    border-radius: .5rem;
+
+    overflow: hidden;
+}
+
+.photograph-card h4,
+.photograph-card p {
+    margin: 0;
+}
+
+.photograph-card p {
+    text-align: justify;
+}
+
+.photograph-card figure {
+    margin: 0;
+}
+
+.photograph-card figure img {
+    width: 100%;
+}
+
+.photograph-card section {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+
+    padding: 0 1rem 1rem;
+}
